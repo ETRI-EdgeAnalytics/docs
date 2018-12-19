@@ -1,4 +1,4 @@
-# LightweightDeepLearning
+# 부하분산과 능동적 적시대응을 위한 빅데이터 엣지 분석 기술
 
 #### CNN(Convolutional Neural Network) 계열의 신경망 모델을 중심으로 압축, 합성곱, 분산처리, 자동탐색, 구조화 및 가속화의 관점에서 기술을 분류하고 각 개별 기술의 특징 및 대표 제안 연구를 파악함
 
