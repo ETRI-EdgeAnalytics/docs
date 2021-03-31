@@ -182,6 +182,9 @@ a:hover { text-decoration: underline; }
 .main-content dl dd { padding: 0; margin-bottom: 1rem; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
+.main-content .video-container{position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;}
+.main-content .video-container iframe,.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:90%;}
+
 
 .video-container{position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;}
 .video-container iframe,.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:90%;}
